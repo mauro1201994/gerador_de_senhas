@@ -1,3 +1,4 @@
+<img width="952" height="473" alt="senhas" src="https://github.com/user-attachments/assets/bf28b086-9c0f-4d10-b890-f95c2b843355" />
 🔐 Gerador de Senhas
 
 Este é um projeto simples de gerador de senhas seguras, desenvolvido com HTML, CSS e JavaScript. Ele permite ao usuário criar senhas aleatórias personalizadas, com base em critérios como tamanho e tipos de caracteres (letras, números e símbolos).
@@ -25,3 +26,4 @@ Incluir números
 Incluir símbolos
 
 Botão para copiar a senha gerada com um clique
+
